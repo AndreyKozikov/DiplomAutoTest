@@ -1,0 +1,9 @@
+XPATH:
+    LOCATOR_LOGIN_FIELD : //*[@id="login"]/div[1]/label/input
+    LOCATOR_PASSWORD_FIELD : //*[@id="login"]/div[2]/label/input
+    LOCATOR_LOGIN_BUTTON : //*[@id="login"]/div[3]/button
+    LOCATOR_ERROR_FIELD : //*[@id="app"]/main/div/div/div[2]/h2
+    LOCATOR_SUCCESS_LOGIN : //*[@id="app"]/main/nav/ul/li[3]/a
+    LOCATOR_ABOUT_LINK : //*[@id="app"]/main/nav/ul/li[1]/a
+    LOCATOR_ABOUT_FONT_SIZE : //*[@id="app"]/main/div/div/h1
+CSS:
